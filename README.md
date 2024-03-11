@@ -2,6 +2,8 @@
 
 Scalable Vector Graphics files for gussets to reinforce the frame of BMW R100GS motorcycles.
 
+![gusset set](images/gussets-and-patterns.jpg)
+
 ![welding top tube gusset](images/welding-top-tube-gusset.jpg)
 
 ![acrebis-tank-mount](images/acrebis-tank-mount.jpg)
@@ -15,6 +17,8 @@ Scalable Vector Graphics files for gussets to reinforce the frame of BMW R100GS 
 ![down-tube-plate](images/down-tube-plate.jpg)
 
 ![swing-arm-outer-gusset](images/swing-arm-outer-gusset.jpg)
+
+![main tube rear gusset](images/main-tube-rear-gusset.jpg)
 
 ## Licence & Usage
 
